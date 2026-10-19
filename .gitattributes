@@ -1,0 +1,11 @@
+# Preserve SHA-256-frozen source files byte-for-byte.
+# Disable Git line-ending conversion for these files.
+
+src/skill_extraction.py -text
+src/reliability_first_blind_candidate.py -text
+src/reliability_replacement_blind_candidate.py -text
+src/reliability_rule_hardened_candidate.py -text
+src/reliability_semantic_gate_candidate.py -text
+
+# Preserve reviewed reference CSVs without line-ending conversion.
+data/reference/*.csv -text

@@ -1,0 +1,13 @@
+metric,value
+input_ca_places,346
+input_ca_postings,5098
+resolved_auto_places,313
+resolved_manual_places,31
+unresolved_places,2
+resolved_postings,5096
+unresolved_postings,2
+resolved_posting_pct,99.9608
+unresolved_labels,Sunkist | Wilcox
+county_naming_convention,<County Name> County
+final_mapping_sha256,81ad75bd413714bdb7c61d063c39562bac0a6e75ff68603e52b205866c9b9240
+production_note,Production geography enrichment should consume this frozen reference table; it should not rerun external geocoding.

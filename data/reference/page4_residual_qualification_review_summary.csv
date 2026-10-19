@@ -1,0 +1,11 @@
+metric,value
+reviewed_candidate_keys,655
+exclude_from_capability_keys,648
+keep_capability_keys,7
+excluded_posting_capability_rows_expected,2384
+kept_posting_capability_rows,8
+expected_capability_rows_after_cleanup,984259
+expected_unique_capability_keys_after_cleanup,254773
+excluded_keys_with_support_ge_100,4
+excluded_keys_with_support_ge_250,1
+policy_note,"Precision-first Page 4 policy: explicit degrees, credentials, licenses, and certification phrases are excluded unless review shows the extracted phrase clearly represents a work process or domain knowledge rather than possession of a qualification."
